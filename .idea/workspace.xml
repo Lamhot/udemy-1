@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9809c4ad-7dc0-45a1-8de7-46a7ead1c463" name="Default Changelist" comment="" />
+    <list default="true" id="9809c4ad-7dc0-45a1-8de7-46a7ead1c463" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ajax/jquery-3.4.1.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VwdEDvkvMXTnOoCyjSVzgs3C4e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajax" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -60,7 +66,7 @@
       <updated>1578167977955</updated>
       <workItem from="1578167981649" duration="3835000" />
       <workItem from="1578223152921" duration="8562000" />
-      <workItem from="1578328210629" duration="20000" />
+      <workItem from="1578328210629" duration="240000" />
     </task>
     <servers />
   </component>
