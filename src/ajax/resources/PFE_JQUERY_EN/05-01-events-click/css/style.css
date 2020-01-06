@@ -1,0 +1,16 @@
+body {
+	font-family: arial;
+	background-color: #9B50AF;
+}
+
+.highlighted {
+	background-color: #E17BBA!important;
+}
+
+#example {
+	width: 100px;
+	height: 100px;
+	margin: 150px auto;	
+	background-color: #3BEAB4;
+}
+

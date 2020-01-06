@@ -1,0 +1,43 @@
+body {
+	font-family: arial;
+	background-color: #9B50AF;
+}
+
+.form-container {
+	background-color: #3BEAB4;
+	width: 270px;
+	margin: 50px auto; 	
+}
+
+.form-row {
+	margin: 10px;
+}
+
+label {
+	display: block;
+	width: 100px;
+}
+
+input[type="submit"], button {
+	background-color: #E17BBA;
+	color: white;
+	font-weight: bold;
+	border:none;
+	padding: 5px;
+	width: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 175px;
+}
+
+#pet-feedback {
+	height: 10px;
+}
+
+#result {
+	text-align: center;
+}
+
+#pets-row {
+	display: none;
+}
