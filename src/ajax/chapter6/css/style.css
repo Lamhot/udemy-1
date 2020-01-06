@@ -14,3 +14,8 @@ li {
 .class2 {
 	background-color: green;
 }
+.highlighted
+{
+	color: red;
+	background-color: blue;
+}
