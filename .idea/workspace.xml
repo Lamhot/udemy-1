@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9809c4ad-7dc0-45a1-8de7-46a7ead1c463" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter8/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter8/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter9/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter9/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter9/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajax/chapter8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajax/chapter9/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -48,11 +49,11 @@
       <recent name="$PROJECT_DIR$/src/ajax" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ajax/chapter9/css" />
+      <recent name="$PROJECT_DIR$/src/ajax/chapter9" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter8" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter7" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter6" />
-      <recent name="$PROJECT_DIR$/src/ajax/chapter5" />
-      <recent name="$PROJECT_DIR$/src/ajax" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -79,7 +80,7 @@
       <updated>1578167977955</updated>
       <workItem from="1578167981649" duration="3835000" />
       <workItem from="1578223152921" duration="8562000" />
-      <workItem from="1578328210629" duration="3819000" />
+      <workItem from="1578328210629" duration="4685000" />
     </task>
     <servers />
   </component>
