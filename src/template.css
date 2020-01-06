@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    background: #fff;
+    color: #666;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: #1E6FFF;
+}
+
+a:hover {
+    color: #fff;
+    background: #1E6FFF;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    padding: 0;
+}
+
+p {
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+/* Navigation styles */
+nav {
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+    text-align: center;
+}
+
+nav li {
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #393434;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    text-transform: uppercase;
+    padding: 4px;
+    font-weight: bold;
+    width: 120px;
+}
+
+nav a:hover, a:active {
+    background-color: #000000;
+}
+
+#wrapper {
+    padding: 5px;
+    width: 960px;
+    margin: 20px auto;
+}
+
+header {
+    height: 100px;
+    padding: 0 15px;
+}
+
+section {
+    float: left;
+    padding: 15px;
+    margin: 5px;
+    border: solid 1px #ccc;
+}
+
+#one {
+    width: 300px;
+    background: #E8E8E8;
+}
+
+#two {
+    width: 500px;
+    background: #8B8B8B;
+}
+
+#three {
+    width: 840px;
+}
+
+footer {
+    clear: both;
+    padding: 0 15px;
+}
+
+@media screen and (max-width: 960px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    nav a {
+        width: 80px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    header {
+        height: 50px;
+        padding: 0;
+    }
+
+    nav a {
+        width: 100%;
+        padding: 0 2px;
+        margin: 2px;
+    }
+
+    nav li {
+        font-size: 0.7em;
+        line-height: 20px;
+        height: 20px;
+    }
+
+    h1, h2 {
+        font-size: 1em;
+    }
+
+    .headingtext {
+        display: none;
+    }
+
+    section {
+        width: auto;
+        float: none;
+    }
+}

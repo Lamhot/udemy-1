@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+span, div em {
+    padding: 5px;
+    display: inline-block;
+}
+.first span:hover {
+    background-color: #28FFF5;
+}
+div:first-letter {
+    color: #FF0509;
+    font-weight: bold;
+}
+.thumbnail {
+    max-width: 100px;
+}
+span:first-child {
+    font-weight: bold;
+    font-size: 40px;
+}
+div:first-child {
+    background: #000000;
+    color: #5B64FF;
+    margin: 20px;
+    text-align: center;
+}
+.thumbnail {
+    max-width: 100px;
+}
+.one, .two, .three {
+    color: #00FF4C;
+}
+a {
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#newspan {
+    background: aqua;
+    color: rgba(221,46,49,1.00);
+}
+.newspan {
+    background: yellow;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+}
+img {
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+    text-align: center;
+}
+nav li {
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #393434;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    text-transform: uppercase;
+    padding: 4px;
+    font-weight: bold;
+    width: 120px;
+}
+nav a:hover, a:active ,nav a:visited{
+    background-color: #000000;
+}
+
+#mymargin
+{
+    background: #192CFF;
+    margin: 20px;
+    border: #FF8E00 solid 3px;
+}
+
+div{
+     background: #28FFF5 url("image.png") no-repeat top right scroll;
+}
