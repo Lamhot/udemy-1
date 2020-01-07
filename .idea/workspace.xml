@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9809c4ad-7dc0-45a1-8de7-46a7ead1c463" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter12/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter12/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter12/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter14/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter14/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter14/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter15/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter15/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ajax/resources/PFE_JQUERY_EN/05-02-event-delegation/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ajax/resources/PFE_JQUERY_EN/05-02-event-delegation/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ajax/chapter15/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ajax/chapter15/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +77,7 @@
       <updated>1578167977955</updated>
       <workItem from="1578167981649" duration="3835000" />
       <workItem from="1578223152921" duration="8562000" />
-      <workItem from="1578328210629" duration="8805000" />
+      <workItem from="1578328210629" duration="9658000" />
     </task>
     <servers />
   </component>
