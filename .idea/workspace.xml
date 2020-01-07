@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9809c4ad-7dc0-45a1-8de7-46a7ead1c463" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter10/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter10/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajax/chapter10/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter11/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter11/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajax/chapter11/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajax/chapter10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajax/chapter11" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -49,11 +49,11 @@
       <recent name="$PROJECT_DIR$/src/ajax" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ajax/chapter11" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter10" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter9/css" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter9" />
       <recent name="$PROJECT_DIR$/src/ajax/chapter8" />
-      <recent name="$PROJECT_DIR$/src/ajax/chapter7" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -80,7 +80,7 @@
       <updated>1578167977955</updated>
       <workItem from="1578167981649" duration="3835000" />
       <workItem from="1578223152921" duration="8562000" />
-      <workItem from="1578328210629" duration="5262000" />
+      <workItem from="1578328210629" duration="6127000" />
     </task>
     <servers />
   </component>
