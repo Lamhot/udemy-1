@@ -13,7 +13,7 @@ $(document).ready(function () {
 		// or the other option is using the element it self
 
 		$(html).appendTo('#place-container');
-		
+
 
 
 	})
